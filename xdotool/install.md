@@ -1,0 +1,2 @@
+#Install XdoTool from binaries
+
